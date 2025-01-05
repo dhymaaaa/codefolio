@@ -2,12 +2,35 @@ import React from 'react'
 import Icon from '@mdi/react';
 import { mdiGithub } from '@mdi/js';
 import Image from 'next/image';
+// import { motion } from 'framer-motion';
+// import { TypeAnimation } from 'react-type-animation';
 
 
 const Header = () => {
     return (
         <header className='lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24'>
             <div>
+                {/* <motion.div initial={{opacity: 0}} animate={{opacity: 1}} transition={{duration: 0.5}}>
+                    <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>
+                        <span>
+                            Hello, I&apos;
+                        </span>
+                        <br />
+                        <TypeAnimation
+                            sequence={[
+                                "Dheema",
+                                1000,
+                                "Web Developer",
+                                1000,
+                                "Student",
+                                1000,
+                            ]}
+                            wrapper='span'
+                            speed={50}
+                            repeat={Infinity}
+                        />
+                    </h1>
+                </motion.div> */}
                 <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>Dheema Hussain</h1>
                 <h2 className='mt-3 text-lg font-medium tracking-tight text-[#9290C3] sm:text-xl'>Junior Web Developer</h2>
                 <nav className='nav hidden lg:block' aria-label='In-page jump links'>
