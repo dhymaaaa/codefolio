@@ -12,7 +12,7 @@ const Main = () => {
                 </div>
                 <div>
                     <p className='mb-4'>
-                        I&apos;m a third-year Computer Science student at Maldives National University, pursuing a Bachelor&apos;s degree in Computer Science. I&apos;m interested in creating dynamic, and user-riendly web applications.
+                        I&apos;m a third-year Computer Science student at Maldives National University, pursuing a Bachelor&apos;s degree in Computer Science. I&apos;m interested in creating dynamic, and user-friendly web applications.
                     </p>
                     <p className='mb-4'>
                         Currently, I&apos;m an intern at
