@@ -16,7 +16,7 @@ const Main = () => {
                     </p>
                     <p className='mb-4'>
                         Currently, I&apos;m an intern at
-                        <a className='font-medium text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
+                        <a className='font-medium text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
                             Maldives Marketing & PR Corporation,
                         </a>
                         contributing in the UI design of one of their websites.
@@ -37,7 +37,7 @@ const Main = () => {
                             <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 27 October 2024 to Present</header>
                             <div className='z-10 sm:col-span-6'>
                                 <h3 className='font-medium leading-snug text-slate-200'>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3]  group/link text-base' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener' aria-label='Intern, MMPRC'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener' aria-label='Intern, MMPRC'>
                                         Intern -
                                         <span className="ml-1">Maldives Marketing & PR Corporation</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
@@ -48,27 +48,27 @@ const Main = () => {
                                 </p>
                                 <ul className='mt-2 flex flex-wrap' aria-label='Technologies used'>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Next.js
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Nuxt.js
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Figma
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Firebase
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             HTML & CSS
                                         </div>
                                     </li>
@@ -82,7 +82,7 @@ const Main = () => {
                             <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 26 October 2023 to 25 April 2024</header>
                             <div className='z-10 sm:col-span-6'>
                                 <h3 className='font-medium leading-snug text-slate-200'>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3]  group/link text-base' href="https://pgoffice.gov.mv/" target='_blank' rel='noreferrer noopener' aria-label='Intern, Prosecutor Generals Office'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://pgoffice.gov.mv/" target='_blank' rel='noreferrer noopener' aria-label='Intern, Prosecutor Generals Office'>
                                         Intern -
                                         <span className="ml-1">Prosecutor General&apos;s Office</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
@@ -93,17 +93,17 @@ const Main = () => {
                                 </p>
                                 <ul className='mt-2 flex flex-wrap' aria-label='Technologies used'>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Laravel
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Vue.js
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             MySQL
                                         </div>
                                     </li>
@@ -112,7 +112,7 @@ const Main = () => {
                         </div>
                     </li>
                     <li className='mb-12'>
-                        <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3] group/link text-base' href="/files/Resume.pdf" target='_blank'>
+                        <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500] group/link text-base' href="/files/Resume.pdf" target='_blank'>
                             View Full -
                             <span className="ml-1">CV</span>
                             <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
@@ -130,7 +130,7 @@ const Main = () => {
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
                                         <span className="ml-1">Discover Maldives website (GitHub repository)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
@@ -140,17 +140,17 @@ const Main = () => {
                                 </p>
                                 <ul className='mt-2 flex flex-wrap' aria-label='Languages used'>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             PHP
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             JavaScript
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             HTML & CSS
                                         </div>
                                     </li>
@@ -166,7 +166,7 @@ const Main = () => {
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#9290C3] focus-visible:text-[#9290C3]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
                                         <span className="ml-1">My coding portfolio (Codefolio)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
@@ -176,12 +176,12 @@ const Main = () => {
                                 </p>
                                 <ul className='mt-2 flex flex-wrap' aria-label='Languages used'>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Next.js
                                         </div>
                                     </li>
                                     <li className='mr-1.5 mt-2'>
-                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#dbc5f2] '>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
                                             Tailwind CSS
                                         </div>
                                     </li>
