@@ -8,7 +8,7 @@ import Image from 'next/image';
 
 const Header = () => {
     return (
-        <header className='lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24'>
+        <header className='pt-20 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between'>
             <div>
                 {/* <motion.div initial={{opacity: 0}} animate={{opacity: 1}} transition={{duration: 0.5}}>
                     <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>
