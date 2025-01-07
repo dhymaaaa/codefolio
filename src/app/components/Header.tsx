@@ -2,8 +2,6 @@ import React from 'react'
 import Icon from '@mdi/react';
 import { mdiGithub } from '@mdi/js';
 import Image from 'next/image';
-// import { motion } from 'framer-motion';
-// import { TypeAnimation } from 'react-type-animation';
 
 
 const Header = () => {
@@ -11,47 +9,26 @@ const Header = () => {
         <header className='lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24'>
             <div className='lg:flex lg:flex-col'>
                 <div>
-                    {/* <motion.div initial={{opacity: 0}} animate={{opacity: 1}} transition={{duration: 0.5}}>
-                        <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>
-                            <span>
-                                Hello, I&apos;
-                            </span>
-                            <br />
-                            <TypeAnimation
-                                sequence={[
-                                    "Dheema",
-                                    1000,
-                                    "Web Developer",
-                                    1000,
-                                    "Student",
-                                    1000,
-                                ]}
-                                wrapper='span'
-                                speed={50}
-                                repeat={Infinity}
-                            />
-                        </h1>
-                    </motion.div> */}
                     <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>Dheema Hussain</h1>
                     <h2 className='mt-3 text-lg font-medium tracking-tight text-[#9290C3] sm:text-xl'>Junior Web Developer</h2>
                     <nav className='nav hidden lg:block' aria-label='In-page jump links'>
                         <ul className='mt-16 w-max'>
                             <li>
                                 <a className='group flex items-center py-3' href="#about">
-                                    <span className='nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-noneransition-all'></span>
-                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200'>About</span>
+                                    <span className='nav-indicator mr-4 h-px w-8 bg-[#e9c073] transition-all group-hover:w-16 group-hover:bg-[#FFA500] group-focus-visible:w-16 group-focus-visible:bg-[#FFA500] motion-reduce:transition-noneransition-all'></span>
+                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-[#e9c073] group-hover:text-[#FFA500] group-focus-visible:text-[#FFA500]'>About</span>
                                 </a>
                             </li>
                             <li>
                                 <a className='group flex items-center py-3' href="#experience">
-                                    <span className='nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-noneransition-all'></span>
-                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200'>Experience</span>
+                                    <span className='nav-indicator mr-4 h-px w-8 bg-[#e9c073] transition-all group-hover:w-16 group-hover:bg-[#FFA500] group-focus-visible:w-16 group-focus-visible:bg-[#FFA500] motion-reduce:transition-noneransition-all'></span>
+                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-[#e9c073] group-hover:text-[#FFA500] group-focus-visible:text-[#FFA500]'>Experience</span>
                                 </a>
                             </li>
                             <li>
                                 <a className='group flex items-center py-3' href="#projects">
-                                    <span className='nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-noneransition-all'></span>
-                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200'>Projects</span>
+                                    <span className='nav-indicator mr-4 h-px w-8 bg-[#e9c073] transition-all group-hover:w-16 group-hover:bg-[#FFA500] group-focus-visible:w-16 group-focus-visible:bg-[#FFA500] motion-reduce:transition-noneransition-all'></span>
+                                    <span className='nav-text text-xs font-bold uppercase tracking-widest text-[#e9c073] group-hover:text-[#FFA500] group-focus-visible:text-[#FFA500]'>Projects</span>
                                 </a>
                             </li>
                         </ul>

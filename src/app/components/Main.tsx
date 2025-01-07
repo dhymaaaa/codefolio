@@ -16,7 +16,7 @@ const Main = () => {
                     </p>
                     <p className='mb-4'>
                         Currently, I&apos;m an intern at
-                        <a className='font-medium text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
+                        <a className='font-medium text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
                             Maldives Marketing & PR Corporation,
                         </a>
                         contributing in the UI design and implementation of one of their websites.
@@ -37,7 +37,7 @@ const Main = () => {
                             <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 27 October 2024 to Present</header>
                             <div className='z-10 sm:col-span-6'>
                                 <h3 className='font-medium leading-snug text-slate-200'>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener' aria-label='Intern, MMPRC'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener' aria-label='Intern, MMPRC'>
                                         Intern -
                                         <span className="ml-1">Maldives Marketing & PR Corporation</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
@@ -82,7 +82,7 @@ const Main = () => {
                             <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 26 October 2023 to 25 April 2024</header>
                             <div className='z-10 sm:col-span-6'>
                                 <h3 className='font-medium leading-snug text-slate-200'>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://pgoffice.gov.mv/" target='_blank' rel='noreferrer noopener' aria-label='Intern, Prosecutor Generals Office'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://pgoffice.gov.mv/" target='_blank' rel='noreferrer noopener' aria-label='Intern, Prosecutor Generals Office'>
                                         Intern -
                                         <span className="ml-1">Prosecutor General&apos;s Office</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
@@ -120,7 +120,7 @@ const Main = () => {
                     </li> */}
                 </ol>
             </section>
-            <section id='projects' className='mb-8 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24' aria-label='Selected projects'>
+            <section id='projects' className='mb-8 scroll-mt-16 md:mb-24 lg:mb-24 lg:scroll-mt-24' aria-label='Selected projects'>
                 <div className='sticky top-0 z-20 -mx-6 mb-4 w-screen bg-[#1b1947] px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0'>
                     <h2 className='text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only'>Projects</h2>
                 </div>
@@ -130,7 +130,7 @@ const Main = () => {
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
                                         <span className="ml-1">Discover Maldives website (GitHub repository)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
@@ -166,7 +166,7 @@ const Main = () => {
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/codefolio" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/codefolio" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
                                         <span className="ml-1">My coding portfolio (Codefolio)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
@@ -192,6 +192,14 @@ const Main = () => {
                     </li>
                 </ul>
             </section>
+            <footer className='max-w-md pb-16 mb-25 text-sm text-slate-500 sm:pb-0'>
+                <p>Code done by me in Visual Studio Code using
+                    <a className='font-light text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://brittanychiang.com/" target='_blank' rel='noreferrer noopener'>
+                        Brittany Chiang&apos;s portfolio UI
+                    </a>
+                    as a reference.
+                </p>
+            </footer>
         </main>
     )
 }
