@@ -167,7 +167,7 @@ const Main = () => {
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
                                     <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/codefolio" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
-                                        <span className="ml-1">My coding portfolio (Codefolio)</span>
+                                        <span className="ml-1">My coding portfolio - Codefolio (GitHub repository)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
                                 </h3>
