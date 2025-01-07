@@ -19,7 +19,7 @@ const Main = () => {
                         <a className='font-medium text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
                             Maldives Marketing & PR Corporation,
                         </a>
-                        contributing in the UI design of one of their websites.
+                        contributing in the UI design and implementation of one of their websites.
                     </p>
                     <p>
                         I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
@@ -111,13 +111,13 @@ const Main = () => {
                             </div>
                         </div>
                     </li>
-                    <li className='mb-12'>
+                    {/* <li className='mb-12'>
                         <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500] group/link text-base' href="/files/Resume.pdf" target='_blank'>
                             View Full -
                             <span className="ml-1">CV</span>
                             <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                         </a>
-                    </li>
+                    </li> */}
                 </ol>
             </section>
             <section id='projects' className='mb-8 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24' aria-label='Selected projects'>
