@@ -166,7 +166,7 @@ const Main = () => {
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
                             <div className='z-10 sm:order-2 sm:col-span-6'>
                                 <h3>
-                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/Discover-Maldives" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                    <a className='inline-flex items-center font-medium leading-tight text-slate-200 hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/codefolio" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
                                         <span className="ml-1">My coding portfolio (Codefolio)</span>
                                         <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
                                     </a>
@@ -187,7 +187,7 @@ const Main = () => {
                                     </li>
                                 </ul>
                             </div>
-                            <Image src="/images/discover-maldives.png" alt="part of index page" className='aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1' width={200} height={48} loading='lazy' />
+                            <Image src="/images/portfolio.png" alt="part of index page" className='aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1' width={200} height={48} loading='lazy' />
                         </div>
                     </li>
                 </ul>
