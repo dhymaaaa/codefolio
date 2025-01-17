@@ -11,12 +11,12 @@ const Header = () => {
         <header className='lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24'>
             <div className='lg:flex lg:flex-col'>
                 <div>
-                    <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>Dheema Hussain</h1>
+                    <h1 className='text-[#9290C3] text-4xl font-bold tracking-tight sm:text-5xl'>Hello, I&apos;m Dheema</h1>
                     <h2 className='mt-3 text-lg font-medium tracking-tight text-[#9290C3] sm:text-xl'>
-                        <span>{"I am a "}</span>
+                        <span>{"A "}</span>
                         <Typewriter
                             text={[
-                                "Junior Web Developer",
+                                "Web Developer",
                                 "Student",
                             ]}
                             speed={70}
