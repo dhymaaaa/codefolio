@@ -22,7 +22,7 @@ const Main = () => {
                         contributing in the UI design and implementation of one of their websites.
                     </p> */}
                     <p className='text-white'>
-                        I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
+                        I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, Next.js, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
                     </p>
                 </div>
             </section>
