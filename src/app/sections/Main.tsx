@@ -14,13 +14,13 @@ const Main = () => {
                     <p className='mb-4 text-white'>
                         I&apos;m a third-year Computer Science student at Maldives National University, pursuing a Bachelor&apos;s degree in Computer Science. I&apos;m interested in creating dynamic, and user-friendly web applications.
                     </p>
-                    <p className='mb-4 text-white'>
+                    {/* <p className='mb-4 text-white'>
                         Currently, I&apos;m an intern at
                         <a className='font-medium text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
                             Maldives Marketing & PR Corporation,
                         </a>
                         contributing in the UI design and implementation of one of their websites.
-                    </p>
+                    </p> */}
                     <p className='text-white'>
                         I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
                     </p>
