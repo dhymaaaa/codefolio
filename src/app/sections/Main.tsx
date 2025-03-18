@@ -14,13 +14,13 @@ const Main = () => {
                     <p className='mb-4 text-white'>
                         I&apos;m a third-year Computer Science student at Maldives National University, pursuing a Bachelor&apos;s degree in Computer Science. I&apos;m interested in creating dynamic, and user-friendly web applications.
                     </p>
-                    {/* <p className='mb-4 text-white'>
+                    <p className='mb-4 text-white'>
                         Currently, I&apos;m an intern at
                         <a className='font-medium text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener'>
                             Maldives Marketing & PR Corporation,
                         </a>
                         contributing in the UI design and implementation of one of their websites.
-                    </p> */}
+                    </p>
                     <p className='text-white'>
                         I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, Next.js, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
                     </p>
@@ -34,7 +34,9 @@ const Main = () => {
                     <li className='mb-12'>
                         <div className='group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50'>
                             <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
-                            <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 27 October 2024 to 26 January 2025</header>
+                            <header className='z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2' aria-label='2024 to present'> 27 October 2024 to 26 January 2025
+                                <div> 16 February 2025 to Present</div>
+                            </header>
                             <div className='z-10 sm:col-span-6'>
                                 <h3 className='font-medium leading-snug text-slate-200'>
                                     <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://corporate.visitmaldives.com/" target='_blank' rel='noreferrer noopener' aria-label='Intern, MMPRC'>
@@ -44,7 +46,7 @@ const Main = () => {
                                     </a>
                                 </h3>
                                 <p className='mt-2 text-sm leading-normal text-white'>
-                                    Design the user interface, make small components for projects, and aid teams with some tasks.
+                                    Design and develop the user interface and backend for a website, make small components for projects, and aid teams with some tasks.
                                 </p>
                                 <ul className='mt-2 flex flex-wrap' aria-label='Technologies used'>
                                     <li className='mr-1.5 mt-2'>
