@@ -22,7 +22,7 @@ const Main = () => {
                         contributing in the UI design and implementation of one of their websites.
                     </p>
                     <p className='text-white'>
-                        I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, Next.js, and Python. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
+                        I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, Next.js, and Flask. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
                     </p>
                 </div>
             </section>
@@ -194,14 +194,14 @@ const Main = () => {
                     </li>
                 </ul>
             </section>
-            <footer className='max-w-md pb-16 mb-25 text-sm text-slate-500 sm:pb-0'>
+            {/* <footer className='max-w-md pb-16 mb-25 text-sm text-slate-500 sm:pb-0'>
                 <p>Code done by me in Visual Studio Code using
                     <a className='font-light text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500] ml-1 mr-1' href="https://brittanychiang.com/" target='_blank' rel='noreferrer noopener'>
                         Brittany Chiang&apos;s portfolio UI
                     </a>
                     as a reference.
                 </p>
-            </footer>
+            </footer> */}
         </main>
     )
 }
