@@ -12,7 +12,7 @@ const Main = () => {
                 </div>
                 <div>
                     <p className='mb-4 text-white'>
-                        I&apos;m a third-year Computer Science student at Maldives National University, pursuing a Bachelor&apos;s degree in Computer Science. I&apos;m interested in creating dynamic, and user-friendly web applications.
+                        I&apos;m a Computer Science student at Maldives National University, having recently completed my Bachelor&apos;s degree coursework and currently awaiting my results. I&apos;m passionate about creating dynamic and user-friendly web applications, engaging games, and innovative digital solutions.
                     </p>
                     {/* <p className='mb-4 text-white'>
                         Currently, I&apos;m an intern at
@@ -21,8 +21,11 @@ const Main = () => {
                         </a>
                         contributing in the UI design and implementation of one of their websites.
                     </p> */}
+                    <p className='mb-4 text-white'>
+                        I&apos;ve worked on diverse projects including HRMS systems, dynamic web applications using technologies like Vue, Laravel, React, Next.js, and Flask. I recently completed an AI application focused on language learning for Dhivehi speakers.
+                    </p>
                     <p className='text-white'>
-                        I&apos;ve worked on projects like HRMS systems and dynamic web apps using technologies like Vue, Laravel, React, Next.js, and Flask. I&apos;m currently exploring AI and it&apos;s applications in language learning for Dhivehi language learners.
+                        I&apos;m excited to apply my skills in web development, game development, and AI to create innovative solutions that make a meaningful impact.
                     </p>
                 </div>
             </section>
@@ -190,6 +193,42 @@ const Main = () => {
                                 </ul>
                             </div>
                             <Image src="/images/portfolio.png" alt="part of index page" className='aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1' width={200} height={48} loading='lazy' />
+                        </div>
+                    </li>
+                </ul>
+                <ul className='group/list'>
+                    <li className='mb-12'>
+                        <div className='group relative grid gap-4 pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50'>
+                            <div className='absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg'></div>
+                            <div className='z-10 sm:order-2 sm:col-span-6'>
+                                <h3>
+                                    <a className='inline-flex items-center font-medium leading-tight text-[#e9c073] hover:text-[#FFA500] focus-visible:text-[#FFA500]  group/link text-base' href="https://github.com/dhymaaaa/akuru-ai" target='_blank' rel='noreferrer noopener' aria-label='Discover Maldives website'>
+                                        <span className="ml-1">Dhivehi language learning chatbot - Akuru AI (GitHub repository)</span>
+                                        <Icon path={mdiArrowTopRight} size={0.75} className='ml-1' />
+                                    </a>
+                                </h3>
+                                <p className='mt-2 text-sm leading-normal text-white'>
+                                    A language learning chatbot that focuses on the Dhivehi language and it&apos;s dialects using Gemini API, Flask, React.js, and Tailwind CSS.
+                                </p>
+                                <ul className='mt-2 flex flex-wrap' aria-label='Languages used'>
+                                    <li className='mr-1.5 mt-2'>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
+                                            Flask
+                                        </div>
+                                    </li>
+                                    <li className='mr-1.5 mt-2'>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
+                                            React.js
+                                        </div>
+                                    </li>
+                                    <li className='mr-1.5 mt-2'>
+                                        <div className='flex items-center rounded-full bg-[#535C91] px-3 py-1 text-xs font-medium leading-5 text-[#FFA500] '>
+                                            Tailwind CSS
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <Image src="/images/akuru.png" alt="part of index page" className='aspect-video object-cover rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1' width={200} height={48} loading='lazy' />
                         </div>
                     </li>
                 </ul>
