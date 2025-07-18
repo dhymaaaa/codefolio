@@ -12,7 +12,10 @@ const Main = () => {
                 </div>
                 <div>
                     <p className='mb-4 text-white'>
-                        I&apos;m a Computer Science student at Maldives National University, having recently completed my Bachelor&apos;s degree coursework and currently awaiting my results. I&apos;m passionate about creating dynamic and user-friendly web applications, engaging games, and innovative digital solutions.
+                        Passionate about turning complex ideas into simple, usable tools, I&apos;m a developer who thrives at the intersection of design, development, and innovation. I build full stack web applications with technologies like React.js, Next.js, Flask, and Laravel, and I bring interfaces to life with clean, user-centered design in Figma and Tailwind CSS.
+                    </p>
+                    <p className='mb-4 text-white'>
+                        Whether it&apos;s designing intuitive staff portals, crafting dynamic websites, or experimenting with AI-powered learning systems, I&apos;m driven by curiosity, impact, and a desire to simplify the complex.
                     </p>
                     {/* <p className='mb-4 text-white'>
                         Currently, I&apos;m an intern at
@@ -21,12 +24,15 @@ const Main = () => {
                         </a>
                         contributing in the UI design and implementation of one of their websites.
                     </p> */}
-                    <p className='mb-4 text-white'>
+                    {/* <p>
+                        I&apos;m a Computer Science student at Maldives National University, having recently completed my Bachelor&apos;s degree coursework and currently awaiting my results. I&apos;m passionate about creating dynamic and user-friendly web applications, engaging games, and innovative digital solutions.
+                    </p> */}
+                    {/* <p className='mb-4 text-white'>
                         I&apos;ve worked on diverse projects including HRMS systems, dynamic web applications using technologies like Vue, Laravel, React, Next.js, and Flask. I recently completed an AI application focused on language learning for Dhivehi speakers.
                     </p>
                     <p className='text-white'>
                         I&apos;m excited to apply my skills in web development, game development, and AI to create innovative solutions that make a meaningful impact.
-                    </p>
+                    </p> */}
                 </div>
             </section>
             <section id='experience' className='mb-8 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24' aria-label='Work experience'>

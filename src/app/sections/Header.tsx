@@ -16,8 +16,8 @@ const Header = () => {
                         <span>{"A "}</span>
                         <Typewriter
                             text={[
-                                "Developer",
-                                "Student",
+                                "Full Stack Developer",
+                                "UI/UX Designer",
                             ]}
                             speed={70}
                             className="mt-3 text-lg font-medium tracking-tight text-[#9290C3] sm:text-xl"
